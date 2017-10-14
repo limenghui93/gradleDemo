@@ -17,6 +17,8 @@
 /gen/
 /out/
 /.settings/
+/demo-one/.settings/
+/demo-two/.settings/
 
 # Gradle files
 .gradle/

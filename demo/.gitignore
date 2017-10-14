@@ -16,6 +16,7 @@
 /bin/
 /gen/
 /out/
+/.settings/
 
 # Gradle files
 .gradle/
